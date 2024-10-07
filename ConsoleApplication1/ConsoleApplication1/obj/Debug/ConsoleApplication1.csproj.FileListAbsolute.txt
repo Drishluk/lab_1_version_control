@@ -4,3 +4,9 @@ C:\Users\Niikivil\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debu
 C:\Users\Niikivil\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
 C:\Users\Niikivil\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Niikivil\RiderProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\osype\Desktop\забезпечення якості та контроль якості і тестування ПП\repository\lab_1_version_control_Drishlyuk\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\osype\Desktop\забезпечення якості та контроль якості і тестування ПП\repository\lab_1_version_control_Drishlyuk\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\osype\Desktop\забезпечення якості та контроль якості і тестування ПП\repository\lab_1_version_control_Drishlyuk\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Users\osype\Desktop\забезпечення якості та контроль якості і тестування ПП\repository\lab_1_version_control_Drishlyuk\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\osype\Desktop\забезпечення якості та контроль якості і тестування ПП\repository\lab_1_version_control_Drishlyuk\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\osype\Desktop\забезпечення якості та контроль якості і тестування ПП\repository\lab_1_version_control_Drishlyuk\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
